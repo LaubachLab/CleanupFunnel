@@ -7,10 +7,10 @@ For this reason, we came up with the idea of creating our own funnel + fluid-hol
 
 The model is saved to an .STL file, and can be edited through any 3D editor site such as Tinkercad; the user can make any necessary changes to the figure before printing it out. 
 
-![](Bodacious Wolt-Inari (1).png)
+![]('Bodacious Wolt-Inari (1).png')
 
-![](Bodacious Wolt-Inari (2).png)
+![]('Bodacious Wolt-Inari (2).png')
 
-![](Bodacious Wolt-Inari (3).png)
+![]('Bodacious Wolt-Inari (3).png')
 
 *This device was created by Kevin Chavez Lopez in June 2021.*
